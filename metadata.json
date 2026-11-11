@@ -1,0 +1,6 @@
+{
+  "name": "RakshaGuard - Cyber Security & Privacy Shield",
+  "description": "Complete Cyber Security, Privacy Protection, Scam & UPI Fraud Detection, App Permission Audit, and Password Security Shield.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
